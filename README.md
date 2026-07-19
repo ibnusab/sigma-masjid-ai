@@ -1,8 +1,6 @@
 # 🕌 Sigma Masjid AI
 
-<p align="center">
-  <img src="assets/logo.png" width="160" alt="Sigma Masjid AI Logo">
-</p>
+
 
 <p align="center">
   <h2 align="center">📱 Sigma Masjid AI</h2>
