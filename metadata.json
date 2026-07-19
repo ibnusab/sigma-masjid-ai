@@ -1,0 +1,6 @@
+{
+  "name": "Sigma Masjid AI",
+  "description": "Professional Mosque Management System Powered by Google AI Studio",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
